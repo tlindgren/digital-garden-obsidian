@@ -1,6 +1,4 @@
-/* Hide the default page title since I have H1 headings in each page manually  */
-.theme-light {
-}
+/* === Custom Obsidian Publish CSS - Tim Lindgren === */
 
 a {
     color: #174066;
@@ -211,9 +209,6 @@ a {
 }
 
 .Home a.internal-link {
-    /* box-shadow: rgb(0 0 0 / 25%) 0px 25px 50px -12px;
-    background-color: #174066;
-    color: #fff; */
     border-radius: .25rem; 
     padding: .5rem .75rem;
     text-decoration: none;
