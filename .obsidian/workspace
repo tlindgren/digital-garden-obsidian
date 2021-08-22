@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "a654a401716dc01c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b8ebb2c0d480db4",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "582a62235f1327a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b7757bb5bde03bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cee5a084fe2b221",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "dcafbdde6a6eb574",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "ali abdaal",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "3e7dd0cd9e4c9704",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 333
+  },
+  "right": {
+    "id": "75c009bde4952465",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b8028c560c038f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60270c853b074432",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d3f9d9c636d7e6cc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "8d96408839419568",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "6695ab52a97c24d4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "6a675ef554528168",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "9b8ebb2c0d480db4",
+  "lastOpenFiles": [
+    "Capture Notes.md",
+    "Private/DTC Thinking Around Design Thinking.md",
+    "Private/digital garden tools.md",
+    "Topics/DTC/Empathize.md",
+    "Topics/DTC/Define.md",
+    "Garden/Obsidian Publish.md",
+    "Garden/Obsidian MOC.md",
+    "Garden/Obsidian.md",
+    "Notes/Notes Overview.md",
+    "Garden/javascript.md"
+  ]
+}

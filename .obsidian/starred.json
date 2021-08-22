@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Notes Home",
+      "path": "Notes/Notes Home.md"
+    },
+    {
+      "type": "file",
+      "title": "Work",
+      "path": "Notes/Work Tasks.md"
+    },
+    {
+      "type": "file",
+      "title": "Personal Tasks",
+      "path": "Notes/Personal Tasks.md"
+    }
+  ]
+}

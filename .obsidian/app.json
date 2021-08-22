@@ -1,0 +1,22 @@
+{
+  "obsidianCss": false,
+  "foldIndent": true,
+  "foldHeading": true,
+  "fileSortOrder": "byModifiedTime",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Notes",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showFrontmatter": true,
+  "vimMode": false,
+  "emacsyKeys": false,
+  "mobilePullAction": "switcher:open",
+  "spellcheck": true,
+  "attachmentFolderPath": "Assets"
+}
