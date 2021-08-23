@@ -2,7 +2,7 @@
 status: published
 ---
 # About this Site
-This is a [[digital garden]] made up of interconnected notes. It's where try to learn in public and share what I'm thinking about/working on.
+This is a [[digital garden]] made up of interconnected notes. It's where I'm practicing [[Garden/working in public]] and sharing what I'm learning. 
 
 It's definitely a work in progress at the moment since I just launched a new version ([[2021-08-21 Update]]).
 
@@ -14,6 +14,6 @@ There are a few features to help you navigate:
 The [[Notes Overview|Notes]] page also has some ways to get started exploring. 
 
 ## Platform
-I'm using [[Obsidian Publish]] because I already use Obsidian heavily as my person knowledge management system. I also have a bad habit of spending too much time rebuilding and fiddling with my website (rather than actually creating content) See [[yak shaving]]. 
+I'm using [[Garden/Obsidian Publish]] because I already use Obsidian heavily as my person knowledge management system. I also have a bad habit of spending too much time rebuilding and fiddling with my website (rather than actually creating content) See [[yak shaving]]. 
 
 
