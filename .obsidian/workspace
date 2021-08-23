@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "9b8ebb2c0d480db4",
+        "id": "483e4814d3822aa9",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Daily/2021-08-22.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -57,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333
+    "width": 194
   },
   "right": {
     "id": "75c009bde4952465",
@@ -73,13 +76,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Daily/2021-08-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -95,7 +99,7 @@
             "id": "8d96408839419568",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "empty",
               "state": {}
             }
           },
@@ -104,7 +108,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Daily/2021-08-22.md"
+              }
             }
           },
           {
@@ -114,6 +120,14 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "3c25520f2e9f4ce0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ]
       }
@@ -121,17 +135,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "9b8ebb2c0d480db4",
+  "active": "483e4814d3822aa9",
   "lastOpenFiles": [
-    "Capture Notes.md",
-    "Private/DTC Thinking Around Design Thinking.md",
-    "Private/digital garden tools.md",
-    "Topics/DTC/Empathize.md",
-    "Topics/DTC/Define.md",
+    "Notes/Daily/2021-08-22.md",
+    "Notes/open source muscle.md",
+    "Garden/reflective changelog.md",
+    "reflective changelog.md",
+    "Portfolio.md",
+    "Notes/learning in public.md",
+    "Testnewadfadsf.md",
     "Garden/Obsidian Publish.md",
-    "Garden/Obsidian MOC.md",
-    "Garden/Obsidian.md",
-    "Notes/Notes Overview.md",
-    "Garden/javascript.md"
+    "Garden/About this Site.md",
+    "Garden/working in public.md"
   ]
 }
