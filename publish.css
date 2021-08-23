@@ -90,8 +90,6 @@ a {
 
 /* === Left Column ===  */
 
-=
-
 .site-header .clickable-icon  {
     color: white;
     margin-right: 1rem;
@@ -117,6 +115,7 @@ a {
 .published-container.is-readable-line-width .site-body-center-column {
     margin-top: 4.5rem;
     padding-bottom: 4.5rem;
+    min-width: 740px;
     animation: fadeIn linear .5s;
     -webkit-animation: fadeIn linear .5s;
     -moz-animation: fadeIn linear .5s;
@@ -124,7 +123,14 @@ a {
     -ms-animation: fadeIn linear .5s;
 }
 
-@media screen and (max-width: 740px) {
+@media screen and (max-width: 1050px) {
+    .published-container.is-readable-line-width .site-body-center-column {
+        min-width:500px;
+        width:100%;
+    }
+}
+
+@media screen and (max-width: 800px) {
     .published-container.is-readable-line-width .site-body-center-column {
         min-width:0;
         width:100%;
