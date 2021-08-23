@@ -3,9 +3,9 @@ This is where I document past work I've done.
 
 ***Currently under active (re)construction*.**
 
-## Goals
-- To represent my work experience more **holistically** (in a way that a resume wouldn't)
-- To use the **[[digital garden]]** format as a reflective process to revisit previous work and make links between past and present. 
+## About this Portfolio
+- As a **product**, it's meant to represent my work experience more **holistically** (in a way that a resume wouldn't)
+- As a **process**, I'm trying to use the **[[digital garden]]** format as a chance to reflect on previous work, to learn about myself as I connect the dots between past and present. 
 
 ## Getting Started
 - **[[Writings]]**
