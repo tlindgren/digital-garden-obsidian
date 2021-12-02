@@ -3,6 +3,7 @@
   "renderPDF": false,
   "renderIframe": false,
   "renderExcalidraw": false,
-  "refreshImagesAfterChange": false,
+  "renderTransclusion": false,
+  "refreshImagesAfterChange": true,
   "WYSIWYG": false
 }

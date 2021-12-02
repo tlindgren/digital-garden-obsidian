@@ -1,0 +1,16 @@
+{
+  "queueTagMap": {
+    "repetition-queue": [
+      "repetition"
+    ]
+  },
+  "defaultPriorityMin": 10,
+  "defaultPriorityMax": 50,
+  "queueFolderPath": "Notes/Repetition",
+  "queueFileName": "repetition-queue.md",
+  "defaultQueueType": "afactor",
+  "skipAddNoteWindow": false,
+  "autoAddNewNotes": false,
+  "defaultFirstRepDate": "next week",
+  "askForNextRepDate": true
+}

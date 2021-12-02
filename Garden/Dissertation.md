@@ -1,8 +1,8 @@
 ---
-aliases: [dissertation, Place Blogging:Local Economies of Attention in the Network ]
+aliases: [Dissertation, Place Blogging:Local Economies of Attention in the Network ]
 status: published
 ---
-# Dissertation
+# dissertation
 
 ## Place Blogging: Local Economies of Attention in the Network
 Doctoral Dissertation, 2009, Boston College

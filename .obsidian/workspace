@@ -1,17 +1,139 @@
 {
   "main": {
-    "id": "a654a401716dc01c",
+    "id": "e3a7c5a3b1f75ba6",
     "type": "split",
     "children": [
       {
-        "id": "483e4814d3822aa9",
+        "id": "9b6738bb86b118f5",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Notes/Daily/2021-08-22.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "9b6738bb86b118f5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"journals/2021-12-01.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "9b6738bb86b118f5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"journals/2021_12_01.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "9b6738bb86b118f5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"journals/2021-12-01.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":14},\"to\":{\"line\":8,\"ch\":14}}}"
+            },
+            {
+              "leaf": "9b6738bb86b118f5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"journals/2021-09-02.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "9b6738bb86b118f5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"journals/2021_12_01.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "9b6738bb86b118f5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"journals/2021-11-30.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "9b6738bb86b118f5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"journals/2021_12_01.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":8,\"ch\":14}}}"
+            },
+            {
+              "leaf": "9b6738bb86b118f5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"journals/2021-12-01.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "9b6738bb86b118f5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"journals/2021-11-30.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "9b6738bb86b118f5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/Untitled 1.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "9b6738bb86b118f5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"journals/2021-11-30.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":2},\"to\":{\"line\":6,\"ch\":2}},\"scroll\":0}"
+            },
+            {
+              "leaf": "9b6738bb86b118f5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"pages/DTC Course.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":11},\"to\":{\"line\":13,\"ch\":11}},\"scroll\":7.973996350364963}"
+            },
+            {
+              "leaf": "9b6738bb86b118f5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"journals/2021-11-28.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":11},\"to\":{\"line\":24,\"ch\":11}},\"scroll\":12.875434027777779}"
+            },
+            {
+              "leaf": "9b6738bb86b118f5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"journals/2021-11-27.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "9b6738bb86b118f5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"journals/2021-11-26.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "9b6738bb86b118f5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"journals/2021-11-25.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "9b6738bb86b118f5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"journals/2021-11-24.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "9b6738bb86b118f5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"journals/2021-11-23.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "9b6738bb86b118f5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"journals/2021-11-22.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "9b6738bb86b118f5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"journals/2021-11-21.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            }
+          ]
         }
       }
     ],
@@ -31,6 +153,10 @@
             "state": {
               "type": "file-explorer",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -39,28 +165,24 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ali abdaal",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime"
               }
-            }
-          },
-          {
-            "id": "3e7dd0cd9e4c9704",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 336
+    "width": 293
   },
   "right": {
     "id": "75c009bde4952465",
@@ -71,62 +193,59 @@
         "type": "tabs",
         "children": [
           {
-            "id": "60270c853b074432",
+            "id": "f51b4a033b94968f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "da7b7c5a6ba83a04",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "ed27fbaa95a4cca4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Daily/2021-08-22.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "byModifiedTime",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
-            "id": "d3f9d9c636d7e6cc",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "8d96408839419568",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "6695ab52a97c24d4",
+            "id": "0d71ecc7c1be62eb",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/Daily/2021-08-22.md"
-              }
-            }
-          },
-          {
-            "id": "6a675ef554528168",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
               "state": {}
-            }
-          },
-          {
-            "id": "3c25520f2e9f4ce0",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
         ]
@@ -135,17 +254,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "483e4814d3822aa9",
+  "active": "9b6738bb86b118f5",
   "lastOpenFiles": [
-    "Notes/Daily/2021-08-22.md",
-    "Notes/open source muscle.md",
-    "Garden/reflective changelog.md",
-    "reflective changelog.md",
-    "Portfolio.md",
-    "Notes/learning in public.md",
-    "Testnewadfadsf.md",
-    "Garden/Obsidian Publish.md",
-    "Garden/About this Site.md",
-    "Garden/working in public.md"
+    "journals/2021-12-01.md",
+    "journals/2021_12_01.md",
+    "journals/2021-09-02.md",
+    "journals/2021-11-30.md",
+    "pages/Untitled 1.md",
+    "journals/2021-11-29.md",
+    "pages/DTC Course.md",
+    "journals/2021-11-28.md",
+    "Changelog.md",
+    "journals/2021-11-27.md"
   ]
 }

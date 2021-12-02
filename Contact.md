@@ -31,6 +31,6 @@ Feel free to reach out if you have any questions or thoughts.
 
 ## Other Places to Connect
 -   [Twitter](https://twitter.com/timlindgren)
--   [LinkedIn](https://www.buttonedin.com/in/timlindgren/)
+-   [LinkedIn](https://www.linkedin.com/in/timlindgren/)
 -   [Instagram](https://www.instagram.com/timothylindgren/)
 -   [Github](https://github.com/tlindgren)

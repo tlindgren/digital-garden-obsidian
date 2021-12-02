@@ -1,5 +1,12 @@
 [
-  "sliding-panes-obsidian",
   "calendar",
-  "obsidian-filename-heading-sync"
+  "hotkey-helper",
+  "oz-image-plugin",
+  "mrj-jump-to-link",
+  "dataview",
+  "find-unlinked-files",
+  "nldates-obsidian",
+  "obsidian-spaced-repetition",
+  "pane-relief",
+  "obsidian-zoom"
 ]
